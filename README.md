@@ -153,7 +153,7 @@ liquidity-iq/
 
 ```bash
 # Clone
-git clone https://github.com/moonaskyou/liquidity-iq.git
+git clone https://github.com/nov1talia/liquidity-iq.git
 cd liquidity-iq
 
 # Install
@@ -198,5 +198,5 @@ MIT
 ## 🔗 Links
 
 - **App:** [LiquidityIQ](http://194.233.83.169:3001)
-- **GitHub:** [github.com/moonaskyou](https://github.com/moonaskyou/)
+- **GitHub:** [github.com/nov1talia](https://github.com/nov1talia/)
 - **Powered by:** [Meteora](https://www.meteora.ag/)

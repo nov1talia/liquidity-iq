@@ -106,7 +106,7 @@ export default function Sidebar() {
 
         {/* GitHub */}
         <a
-          href="https://github.com/moonaskyou/"
+          href="https://github.com/nov1talia/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-4 py-2 transition-all"
